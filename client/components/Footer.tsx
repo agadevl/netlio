@@ -80,7 +80,7 @@ export default function Footer() {
                     Email
                   </p>
                   <a
-                    href="mailto:afraoua@live.fr"
+                    href="mailto:Help@afraoua.it"
                     className="text-white text-sm hover:text-[hsl(var(--purple-accent))] transition-colors"
                   >
                     afraoua@live.fr
@@ -97,10 +97,10 @@ export default function Footer() {
                     Phone
                   </p>
                   <a
-                    href="tel:+393517539367"
+                    href="tel:+1 343 443 535"
                     className="text-white text-sm hover:text-[hsl(var(--purple-accent))] transition-colors"
                   >
-                    +39 351 753 9367
+                    +1 343 443 535
                   </a>
                 </div>
               </div>
@@ -113,7 +113,7 @@ export default function Footer() {
                   <p className="text-white/60 text-xs font-semibold uppercase">
                     Location
                   </p>
-                  <p className="text-white text-sm">Sondrio, Italy</p>
+                  <p className="text-white text-sm"> Italy</p>
                 </div>
               </div>
             </div>
