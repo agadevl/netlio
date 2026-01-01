@@ -83,7 +83,7 @@ export default function Footer() {
                     href="mailto:Help@afraoua.it"
                     className="text-white text-sm hover:text-[hsl(var(--purple-accent))] transition-colors"
                   >
-                    afraoua@live.fr
+                    help@afraoua.it
                   </a>
                 </div>
               </div>
