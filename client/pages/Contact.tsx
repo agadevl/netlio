@@ -33,14 +33,14 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "afraoua@live.fr",
-      href: "mailto:afraoua@live.fr",
+      value: "help@afraoua.it",
+      href: "mailto:help@afraoua.it",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+39 351 753 9367",
-      href: "tel:+393517539367",
+      value: "+1 343 443 535",
+      href: "tel:+1 343 443 535",
     },
     {
       icon: MapPin,
